@@ -4,3 +4,4 @@
  
  第一次接触service、broadcast、widget，可能会有很多没写好，或者设计不好地方。
  
+ 
